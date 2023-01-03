@@ -92,7 +92,7 @@ Let `r` denote the `(root)` node to which `((a,b),c,e)` and `d` are now connecte
 
 ## The single-linkage dendrogram
 
-![Single Linkage Dendrogram 5S data](readme_resources/linkage.png)
+![Single Linkage Dendrogram 5S data](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Simple_linkage-5S.svg/600px-Simple_linkage-5S.svg.png)
 
 The dendrogram is now complete. It is ultrametric because all tips `(a,b,c,e, and d)` are equidistant from `r`:
 
